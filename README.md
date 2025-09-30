@@ -1,2 +1,3 @@
-# involveo_integration_doc
-Инструкции по интеграции Involveo
+# Инструкции по интеграции Involveo
+
+## [SSO-интеграция](involveo_sso_integration.md)
